@@ -330,29 +330,7 @@ pyinstaller --onefile --windowed main.py
 4. Push to branch
 5. Create Pull Request
 
-## 📄 License
 
-This project is created for educational purposes as part of an internship screening task.
-
-## 👨‍💻 Author
-
-Created as part of the Chemical Equipment Parameter Visualizer internship task.
-
-## 📞 Support
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Review API endpoint documentation
-3. Examine console/terminal output for errors
-
-## 🎉 Demo Video
-
-Create a 2-3 minute demo video showing:
-1. User registration/login
-2. CSV file upload
-3. Data visualization in both Web and Desktop apps
-4. PDF report generation
-5. Dataset management features
 
 ## 📚 Additional Resources
 
